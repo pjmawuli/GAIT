@@ -1,0 +1,6 @@
+bvh_pool/
+__pycache__/
+output/
+outputs/
+renders/
+subjects/

@@ -1,0 +1,100 @@
+[INFO ] services.locationservice ...............: mh_user_data explicitly set to C:/Users/Julius/AppData/Local/makehuman-community/makehuman/data/
+[INFO ] mpfb.init ..............................: Build info 20250706
+[INFO ] mpfb.init ..............................: MPFB initialization has finished.
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('hair', 'short03')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyelashes', 'eyelashes02')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyebrows', 'eyebrow009')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyes', 'HighPolyEyes')
+[WARN ] services.humanservice ..................: Asset was not found in assets list, it will take time to find it female_casualsuit02
+[WARN ] services.humanservice ..................: Asset was not found in assets list, it will take time to find it shoes01
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-diamond
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-diamond', 'value': 0.114888}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-full-hourglass
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-full-hourglass', 'value': 0.003084}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-neat-hourglass
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-neat-hourglass', 'value': 0.05034}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-invert-triangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-invert-triangle', 'value': 0.076432}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-lean-column
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-lean-column', 'value': 0.164505}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-rectangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-rectangle', 'value': 0.044295}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-adrenal
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-adrenal', 'value': 0.084847}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-ovary
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-ovary', 'value': 0.152854}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-rectangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-rectangle', 'value': 0.150359}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-lean-column
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-lean-column', 'value': 0.086083}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-invert-triangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-invert-triangle', 'value': 0.047784}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-adrenal
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-adrenal', 'value': 0.105983}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-liver
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-liver', 'value': 0.274878}
+[INFO ] services.locationservice ...............: mh_user_data explicitly set to C:\Users\Julius\Documents\makehuman\v1py3\data
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('hair', 'short03')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyelashes', 'eyelashes02')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyebrows', 'eyebrow009')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyes', 'HighPolyEyes')
+[WARN ] services.humanservice ..................: Asset was not found in assets list, it will take time to find it female_casualsuit02
+[WARN ] services.humanservice ..................: Asset was not found in assets list, it will take time to find it shoes01
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-diamond
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-diamond', 'value': 0.114888}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-full-hourglass
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-full-hourglass', 'value': 0.003084}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-neat-hourglass
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-neat-hourglass', 'value': 0.05034}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-invert-triangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-invert-triangle', 'value': 0.076432}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-lean-column
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-lean-column', 'value': 0.164505}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-rectangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-rectangle', 'value': 0.044295}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-adrenal
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-adrenal', 'value': 0.084847}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-ovary
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-ovary', 'value': 0.152854}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-rectangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-rectangle', 'value': 0.150359}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-lean-column
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-lean-column', 'value': 0.086083}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-invert-triangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-invert-triangle', 'value': 0.047784}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-adrenal
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-adrenal', 'value': 0.105983}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-liver
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-liver', 'value': 0.274878}
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('hair', 'short03')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyelashes', 'eyelashes02')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyebrows', 'eyebrow009')
+[WARN ] services.humanservice ..................: About to perform deep search for bodypart, which will take a long time ('eyes', 'HighPolyEyes')
+[WARN ] services.humanservice ..................: Asset was not found in assets list, it will take time to find it female_casualsuit02
+[WARN ] services.humanservice ..................: Asset was not found in assets list, it will take time to find it shoes01
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-diamond
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-diamond', 'value': 0.114888}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-full-hourglass
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-full-hourglass', 'value': 0.003084}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-neat-hourglass
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-neat-hourglass', 'value': 0.05034}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-invert-triangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-invert-triangle', 'value': 0.076432}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-lean-column
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-lean-column', 'value': 0.164505}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-rectangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-rectangle', 'value': 0.044295}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-adrenal
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-adrenal', 'value': 0.084847}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-fem-ovary
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-fem-ovary', 'value': 0.152854}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-rectangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-rectangle', 'value': 0.150359}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-lean-column
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-lean-column', 'value': 0.086083}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-invert-triangle
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-invert-triangle', 'value': 0.047784}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-adrenal
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-adrenal', 'value': 0.105983}
+[WARN ] services.targetservice .................: Did not find matching target for bodyshapes-elvs-man-liver
+[WARN ] services.targetservice .................: Skipping target because it could not be resolved to a path {'target': 'bodyshapes-elvs-man-liver', 'value': 0.274878}
