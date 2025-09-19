@@ -1,0 +1,94 @@
+sequence_id,description,copied_files,status
+02_01,walk,02_01.bvh,OK
+02_02,walk,02_02.bvh,OK
+05_01,walk,05_01.bvh,OK
+06_01,walk,06_01.bvh,OK
+07_01,walk,07_01.bvh,OK
+07_02,walk,07_02.bvh,OK
+07_03,walk,07_03.bvh,OK
+07_06,walk,07_06.bvh,OK
+07_07,walk,07_07.bvh,OK
+07_08,walk,07_08.bvh,OK
+07_09,walk,07_09.bvh,OK
+07_10,walk,07_10.bvh,OK
+07_11,walk,07_11.bvh,OK
+08_01,walk,08_01.bvh,OK
+08_02,walk,08_02.bvh,OK
+08_03,walk,08_03.bvh,OK
+08_05,walk/stride,08_05.bvh,OK
+08_06,walk,08_06.bvh,OK
+08_08,walk,08_08.bvh,OK
+08_09,walk,08_09.bvh,OK
+08_10,walk,08_10.bvh,OK
+10_04,walk,10_04.bvh,OK
+12_01,walk,12_01.bvh,OK
+12_02,walk,12_02.bvh,OK
+12_03,walk,12_03.bvh,OK
+16_15,walk,16_15.bvh,OK
+16_16,walk,16_16.bvh,OK
+16_21,walk,16_21.bvh,OK
+16_22,walk,16_22.bvh,OK
+16_31,walk,16_31.bvh,OK
+16_32,walk,16_32.bvh,OK
+16_47,walk,16_47.bvh,OK
+16_58,walk,16_58.bvh,OK
+26_01,walk,26_01.bvh,OK
+27_01,walk,27_01.bvh,OK
+29_01,walk,29_01.bvh,OK
+32_01,walk,32_01.bvh,OK
+32_02,walk,32_02.bvh,OK
+35_01,walk,35_01.bvh,OK
+35_02,walk,35_02.bvh,OK
+35_03,walk,35_03.bvh,OK
+35_04,walk,35_04.bvh,OK
+35_05,walk,35_05.bvh,OK
+35_06,walk,35_06.bvh,OK
+35_07,walk,35_07.bvh,OK
+35_08,walk,35_08.bvh,OK
+35_09,walk,35_09.bvh,OK
+35_10,walk,35_10.bvh,OK
+35_11,walk,35_11.bvh,OK
+35_12,walk,35_12.bvh,OK
+35_13,walk,35_13.bvh,OK
+35_14,walk,35_14.bvh,OK
+35_15,walk,35_15.bvh,OK
+35_16,walk,35_16.bvh,OK
+35_28,walk,35_28.bvh,OK
+35_29,walk,35_29.bvh,OK
+35_30,walk,35_30.bvh,OK
+35_31,walk,35_31.bvh,OK
+35_32,walk,35_32.bvh,OK
+35_33,walk,35_33.bvh,OK
+35_34,walk,35_34.bvh,OK
+38_01,walk,38_01.bvh,OK
+38_02,walk,38_02.bvh,OK
+39_01,walk,39_01.bvh,OK
+39_02,walk,39_02.bvh,OK
+39_03,walk,39_03.bvh,OK
+39_04,walk,39_04.bvh,OK
+39_05,walk,39_05.bvh,OK
+39_06,walk,39_06.bvh,OK
+39_07,walk,39_07.bvh,OK
+39_08,walk,39_08.bvh,OK
+39_09,walk,39_09.bvh,OK
+39_10,walk,39_10.bvh,OK
+39_12,walk,39_12.bvh,OK
+39_13,walk,39_13.bvh,OK
+39_14,walk,39_14.bvh,OK
+43_01,walk,43_01.bvh,OK
+45_01,walk,45_01.bvh,OK
+46_01,walk,46_01.bvh,OK
+49_01,walk,49_01.bvh,OK
+55_04,walk,55_04.bvh,OK
+69_01,walk forward,69_01.bvh,OK
+69_02,walk forward,69_02.bvh,OK
+69_03,walk forward,69_03.bvh,OK
+69_04,walk forward,69_04.bvh,OK
+69_05,walk forward,69_05.bvh,OK
+81_02,walk forward,81_02.bvh,OK
+81_03,walk,81_03.bvh,OK
+81_17,walk forward,81_17.bvh,OK
+82_11,normal walk forward,82_11.bvh,OK
+82_13,normal walk forward,82_13.bvh,OK
+90_22,straight walk,90_22.bvh,OK
+90_23,straight walk,90_23.bvh,OK
